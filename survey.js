@@ -28,6 +28,3 @@ rl.question("What's your name?", (answer1) => {
     });
   });
 });
-
-// rl.question("What's your name?? ", (answer) => {
-//   console.log(`Thank you for your valuable feedback: ${answer}`);
